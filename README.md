@@ -48,4 +48,9 @@ Lembre-se de criar o seu servidor. [eSport - Server](https://github.com/lucassnt
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+## :newspaper: Projetos Relacionados
+
+- [ ] :cloud: [Servidor](https://github.com/lucassnts963/nlw-esport-server)
+- [ ] :iphone: [Web](https://github.com/lucassnts963/nlw-esport-mobile)
+
 <br />
