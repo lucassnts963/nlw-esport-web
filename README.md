@@ -31,15 +31,15 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto. 
 Em seguida, inicie o projeto.
 
-´´´cl
+```cl
 npm run start
-´´´
+```
 
 ou
 
-´´´cl
+```cl
 yarn start
-´´´
+```
 
 Lembre-se de criar o seu servidor. [eSport - Server](https://github.com/lucassnts963/nlw-esport-server)
 
